@@ -27,3 +27,7 @@ This is a fully functional calculator built using React. It allows users to perf
    ```bash
    git clone https://github.com/Aeria06/calculatorApp.git
 
+
+## Screenshot
+![image](https://github.com/user-attachments/assets/da1620f6-6c09-44e3-832e-a33b1a694119)
+
